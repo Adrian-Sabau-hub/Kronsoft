@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Lists\Lists\.vs\Lists\project-colors.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Lists\Lists\.vs\Lists\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="Lists\Lists\.vs\Lists\v17\.futdcache.v1" />
+    <None Include="Lists\Lists\Lists.sln" />
+    <None Include="Lists\Lists\Lists\Lists.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Lists\Lists\.vs\Lists\v16\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\Lists.exe
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\Lists.dll
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Internship\z04\Lists\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.dll
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Internship\z04\Lists\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
